@@ -8,3 +8,8 @@
 	url = https://github.com/hectorrdb/condiments
 	shallow = true
 	registered = true
+[submodule "Ecume"]
+	path = Ecume
+	url = https://github.com/hectorrdb/ecume
+	shallow = true
+	registered = true
