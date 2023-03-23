@@ -8,6 +8,11 @@
 	url = https://github.com/hectorrdb/condiments
 	shallow = true
 	registered = true
+[submodule "Dune"]
+	path = Dune
+	url = https://git.bioconductor.org/packages/Dune
+	shallow = true
+	registered = true
 [submodule "Ecume"]
 	path = Ecume
 	url = https://github.com/hectorrdb/ecume
