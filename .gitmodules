@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "condiments"]
 	path = condiments
 	url = https://github.com/hectorrdb/condiments
-	shallow = true
-	registered = true
 [submodule "Dune"]
 	path = Dune
 	url = https://git.bioconductor.org/packages/Dune
-	shallow = true
-	registered = true
 [submodule "Ecume"]
 	path = Ecume
 	url = https://github.com/hectorrdb/ecume
-	shallow = true
-	registered = true
