@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Dune"]
-	path = Dune
-	url = https://git.bioconductor.org/packages/Dune
 [submodule "Ecume"]
 	path = Ecume
 	url = https://github.com/hectorrdb/ecume
-[submodule "condiments"]
-	path = condiments
-	url = https://github.com/hectorrdb/condiments
